@@ -1038,15 +1038,7 @@
                 "y": 1000
               },
               {
-                "x": 630,
-                "y": 960
-              },
-              {
-                "x": 630,
-                "y": 1510
-              },
-              {
-                "x": 670,
+                "x": 610,
                 "y": 940
               }
             ]
@@ -1281,6 +1273,13 @@
               "hasOpenThreats": false,
               "providesAuthentication": false,
               "threats": []
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
